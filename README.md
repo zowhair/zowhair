@@ -1,6 +1,6 @@
 ### Hi there, I'm zowhair  👋
 
-## I'm a Single, Developer, and Student!
+## I'm Single, Developer, and Student!
 - 🔭 I’m currently working on a Js .reduce()!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developers
