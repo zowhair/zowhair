@@ -60,7 +60,7 @@
 - [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
 - [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
 - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
--->
+
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -72,6 +72,6 @@
 [youtube]: https://youtube.com/zowhair
 [instagram]: https://instagram.com/zowhair
 [linkedin]: https://linkedin.com/in/zowhair
-<!-->
+<!--
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 -->
