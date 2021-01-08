@@ -1,6 +1,6 @@
 ### Hi there, I'm zowhair  👋
 
-//## I'm != (Father || Husband)  Developer, and Student!
+<!--## I'm != (Father || Husband)  Developer, and Student! -->
 - 🔭 Rustacean & C++ Geek && use Js(Node || Express) to make living!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developers
