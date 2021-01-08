@@ -1,11 +1,11 @@
 ### Hi there, I'm zowhair  👋
 
-## I'm Single, Developer, and Student!
-- 🔭 I’m currently working on a Js .reduce()!
+//## I'm != (Father || Husband)  Developer, and Student!
+- 🔭 Rustacean & C++ Geek && use Js(Node || Express) to make living!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Football
+- 🥅 2021: Have 3 to 5 projects in mind & currently working on one of them
+- ⚡ Fun fact: I love to Football && Code
 
 ### Connect with me:
 
@@ -67,7 +67,7 @@
 
 <img align="left" alt="zowhair's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zowhair&show_icons=true&hide_border=true" />
 
-[website]: https://zowhair.me
+[website]: https://analogbeings.com
 [twitter]: https://twitter.com/zowhair
 [youtube]: https://youtube.com/zowhair
 [instagram]: https://instagram.com/zowhair
