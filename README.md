@@ -1,19 +1,19 @@
-### Hi there, I'm zowhair  👋
+### Hi there, I'm zowhair from baltistan 👋
 
 <!--## I'm != (Father || Husband)  Developer, and Student! -->
-- 🔭 Rustacean & C++ Geek && use Js(Node || Express) to make living!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 Rustacean & C++ Geek && use Js(Node || Express) && a bit of php(laravel) to make living!
+- 🌱 I’m currently learning rust and algorithms
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2021: Have 3 to 5 projects in mind & currently working on one of them
+- 🥅 2021: Have 3 to 5 projects in mind & currently working on one of them (analogbeings)
 - ⚡ Fun fact: I love to Football && Code
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<a href="analogbeings.com"><img align="left" alt="analogbeings.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>][website]
+[<a href="https://www.youtube.com/zowhair"><img align="left" alt="zowhair | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>][youtube]
+[<a href="https://www.twitter.com/zowhair"><img align="left" alt="zowhair | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>][twitter]
+[<a href="https://www."><img align="left" alt="zowhair | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>][linkedin]
+[<a href="https://www."><img align="left" alt="zowhair | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>][instagram] <!-- bring leetcode hackerearth here-->
 
 <br />
 
