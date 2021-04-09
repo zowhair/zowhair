@@ -12,8 +12,8 @@
 [<a href="analogbeings.com"><img align="left" alt="analogbeings.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>][website]
 [<a href="https://www.youtube.com/zowhair"><img align="left" alt="zowhair | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>][youtube]
 [<a href="https://www.twitter.com/zowhair"><img align="left" alt="zowhair | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>][twitter]
-[<a href="https://www."><img align="left" alt="zowhair | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>][linkedin]
-[<a href="https://www."><img align="left" alt="zowhair | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>][instagram] <!-- bring leetcode hackerearth here-->
+[<a href="https://linkedin.com/in/zowhair"><img align="left" alt="zowhair | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>][linkedin]
+[<a href="https://leetcode.com/zowhair/"><img align="left" alt="zowhair | Leetcode" width="22px" src="view-source:https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png" /></a>][leetcode] <!-- bring leetcode hackerearth here-->
 
 <br />
 
