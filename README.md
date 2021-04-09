@@ -13,7 +13,7 @@
 [<a href="https://www.youtube.com/zowhair"><img align="left" alt="zowhair | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>][youtube]
 [<a href="https://www.twitter.com/zowhair"><img align="left" alt="zowhair | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>][twitter]
 [<a href="https://linkedin.com/in/zowhair"><img align="left" alt="zowhair | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>][linkedin]
-[<a href="https://leetcode.com/zowhair/"><img align="left" alt="zowhair | Leetcode" width="22px" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/LeetCode_nav.4d940ca72.png" /></a>][website] <!-- bring leetcode hackerearth here-->
+[<a href="https://leetcode.com/zowhair/"><img align="left" alt="zowhair | Leetcode" width="22px" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/LeetCode_nav.4d940ca72.png" /></a>][website]
 
 <br />
 
