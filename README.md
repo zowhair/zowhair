@@ -49,8 +49,8 @@
 - [Website](http://anwer-ali.com/)
 - [Website](https://bookgb.com/)
 - [Website](http://gsasbiz.com/)
-- [Website](http://gsasbiz.com/)
-- [Website](http://themtgb.com/)
+- [Website](https://gsasbiz.com/shop/)
+- [Website](https://themtgb.com/)
 ---
 
 ---
