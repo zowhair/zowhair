@@ -47,10 +47,10 @@
 - [A MVC web-framework in Python](https://github.com/analogbeings/ridaakh)
 - [AnalogBeings](https://analogbeings.com)
 - [Anwer Ali](http://anwer-ali.com/)
-- [Website](https://bookgb.com/)
-- [Website](http://gsasbiz.com/)
-- [Website](https://gsasbiz.com/shop/)
-- [Website](https://themtgb.com/)
+- [Bookgb](https://bookgb.com/)
+- [gsasbiz](https://gsasbiz.com/shop/)
+- [themtgb](https://themtgb.com/)
+- [expeditionasia](https://zowhair.github.io/exp1/)
 ---
 
 ---
