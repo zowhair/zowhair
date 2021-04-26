@@ -1,11 +1,12 @@
-### Hi there, I'm zowhair from baltistan 👋
+### Hi there, I'm zowhair a Rustacean 👋
 
 <!--## I'm != (Father || Husband)  Developer, and Student! -->
-- 🔭 Rustacean & C++ Geek && use Js(Node || Express) && a bit of php(laravel) to make living!
+- 🔭 I write Rust && use Js(Node || Express) && PHP(laravel) to make living!
 - 🌱 I’m currently learning rust and algorithms
-- I use to do system and web-app development using latest technologies
+- I use to do system, web-pp,webassembly related developments using Rust, Js, Php, mysql, postgres, mongodb etc.,
+- I also write C && C++ sometimes :D
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2021: Have 3 to 5 projects in mind & currently working on one of them (analogbeings)
+<!--- 🥅 2021: Have 3 to 5 projects in mind & currently working one of them (analogbeings) -->
 - ⚡ Fun fact: I love to Football && Code
 
 ### Connect with me:
@@ -46,6 +47,10 @@
 - [A MVC web-framework in Python](https://github.com/analogbeings/ridaakh)
 - [Website](https://analogbeings.com)
 - [Website](http://anwer-ali.com/)
+- [Website](https://bookgb.com/)
+- [Website](http://gsasbiz.com/)
+- [Website](http://gsasbiz.com/)
+- [Website](http://themtgb.com/)
 ---
 
 ---
