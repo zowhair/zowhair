@@ -46,6 +46,7 @@
 ### Projects
 - [A MVC web-framework in Python](https://github.com/analogbeings/ridaakh)
 - [AnalogBeings](https://analogbeings.com)
+- [CodeSilos](https://codesilos.com/)
 - [Anwer Ali](http://anwer-ali.com/)
 - [Bookgb](https://bookgb.com/)
 - [gsasbiz](https://gsasbiz.com/shop/)
