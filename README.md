@@ -1,10 +1,10 @@
 ### Hi there, I'm zowhair a Rustacean 👋
 
 <!--## I'm != (Father || Husband)  Developer, and Student! -->
-- 🔭 I write Rust && use Js(Node || Express) && PHP(laravel) to make living!
-- 🌱 I’m currently learning rust and algorithms
+- 🔭 I write Rust && Go && use Js(Node || Express) && PHP(laravel) to make living!
+- 🌱 I’m currently learning golang and algorithms
 - I use to do system, web-pp,webassembly related developments using Rust, Js, Php, mysql, postgres, mongodb etc.,
-- I also write C && C++ sometimes :D
+- I also mostly write Go :D
 - 👯 I’m looking to collaborate with other Developers
 <!--- 🥅 2021: Have 3 to 5 projects in mind & currently working one of them (analogbeings) -->
 - ⚡ Fun fact: I love to Football && Code
