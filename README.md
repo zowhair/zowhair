@@ -1,4 +1,4 @@
-### Hi there, I'm zowhair a Rustacean 👋
+### Hi there, I'm zowhair 👋
 
 <!--## I'm != (Father || Husband)  Developer, and Student! -->
 - 🔭 I write Rust && Go && use Js(Node || Express) && PHP(laravel) to make living!
