@@ -50,7 +50,7 @@
 - [Bookgb](https://bookgb.com/)
 - [gsasbiz](https://gsasbiz.com/shop/)
 - [themtgb](https://themtgb.com/)
-- [expeditionasia](https://expeditionasia.com.pk)
+- [expeditionasia](http://expeditionasia.com.pk/)
 ---
 
 ---
