@@ -1,7 +1,7 @@
-### Hi there, I'm zowhair 🧔 DevOps Engg. 👋
+<!-- ### Hi there, I'm zowhair 🧔 DevOps Engg. 👋 -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!!+👋;This+is+zowhair....;DevOps+Engg!!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!!+👋;This+is+zowhair....;DevOps+Engineer!!&center=true&size=30">
   </a>
 </h1>
 
@@ -16,7 +16,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm zowhair, Software Developer && DevOps Engg.
+ ## Hi, I'm zowhair, Software Developer && DevOps Engg.
   <br>
   <br>
   🔭 I write Rust && Js to make living!
