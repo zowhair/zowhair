@@ -9,7 +9,7 @@
   
   <code><a href="https://www.hackerrank.com/zowhair" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://stackoverflow.com/users/9833623/zowhair" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/zowhair/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/zowhair/" title="Instagram Profile"><img width="22" src="view-source:https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png"> Instagram</a></code>
   <code><a href="leetcode.com/zowhair" title="Leetcode Profile"><img width="22" src="https://www.svgrepo.com/show/306328/leetcode.svg"> Leetcode</a></code>
   <code><a href="twitter.com/zowhair" title="Twitter Profile"><img width="22" src="https://www.svgrepo.com/show/11841/twitter.svg"> Leetcode</a></code>
 
