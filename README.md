@@ -15,9 +15,9 @@
 
 </h5>
 <br>
+<h1 align="center">Hi, I'm zowhair, Software Developer && DevOps Engg.</h1>
 <p align="center">
- ## Hi, I'm zowhair, Software Developer && DevOps Engg.
-  <br>
+ <hr />
   <br>
   🔭 I write Rust && Js to make living!
   <br>
