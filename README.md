@@ -10,8 +10,8 @@
   <code><a href="https://www.hackerrank.com/zowhair" title="HackerRank Profile"><img width="22" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"></a></code>
   <code><a href="https://stackoverflow.com/users/9833623/zowhair" title="Stack Overflow Profile"><img width="22" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-stackoverflow-1.png"> </a></code>
   <code><a href="https://www.instagram.com/zowhair/" title="Instagram Profile"><img width="22" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2016/240/iconmonstr-instagram-11.png"></a></code>
-  <code><a href="leetcode.com/zowhair" title="Leetcode Profile"><img width="22" src="https://www.svgrepo.com/show/306328/leetcode.svg"></a></code>
-  <code><a href="twitter.com/zowhair" title="Twitter Profile"><img width="22" src="https://www.svgrepo.com/show/11841/twitter.svg"></a></code>
+  <code><a href="https://www.leetcode.com/zowhair" title="Leetcode Profile"><img width="22" src="https://www.svgrepo.com/show/306328/leetcode.svg"></a></code>
+  <code><a href="https://www.twitter.com/zowhair" title="Twitter Profile"><img width="22" src="https://www.svgrepo.com/show/11841/twitter.svg"></a></code>
 
 </h5>
 <br>
