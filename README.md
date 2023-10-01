@@ -22,7 +22,7 @@
   <br>
   🔭 I write Rust && Js to make living!
   <br>
-  📚 Learning Golang && Cloud Computing :D
+  📚 Full Stack MERN && Shopify Developer..!
   <br>
   🎓 I graduated from UOH
   <br>
