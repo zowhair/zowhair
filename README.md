@@ -66,7 +66,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
-<br />
+
 
 
 <!-- ---
@@ -91,10 +91,6 @@
 - [localStorage Dark/Light Mode Theme Toggle (CSS/JavaScript) | UI Design](https://www.youtube.com/watch?v=_raOFZAYXD4) -->
 <!-- YOUTUBE:END -->
 
----
-
-
----
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
