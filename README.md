@@ -1,114 +1,115 @@
-<!-- ### Hi there, I'm zowhair 🧔 DevOps Engg. 👋 -->
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!!+👋;This+is+zowhair....;Software+Developer!!&center=true&size=30">
+  <a href="https://github.com/zowhair">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Zuhair+👋;Forward+Deployed+Engineer;I+ship+AI+into+real+businesses&center=true&width=620&height=50&size=28&duration=3200&pause=900" alt="Hi, I'm Zuhair — Forward Deployed Engineer">
   </a>
 </h1>
 
-<h5 align="center">
-  
-  <code><a href="https://www.hackerrank.com/zowhair" title="HackerRank Profile"><img width="22" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"></a></code>
-  <code><a href="https://stackoverflow.com/users/9833623/zowhair" title="Stack Overflow Profile"><img width="22" src="[https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-stackoverflow-1.png](https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg)"> </a></code>
-  <code><a href="https://www.leetcode.com/zowhair" title="Leetcode Profile"><img width="22" src="https://www.svgrepo.com/show/306328/leetcode.svg"></a></code>
-  <code><a href="https://www.twitter.com/zowhair" title="Twitter Profile"><img width="22" src="https://www.svgrepo.com/show/11841/twitter.svg"></a></code>
-
-</h5>
-<br>
-<h5 align="center">Hi, I'm zowhair, Software Developer && DevOps Engg.</h5>
-<hr />
 <p align="center">
- 
-  <br>
-  🔭 I write Rust && Js to make living!
-  <br>
-  📚 Full Stack MERN && Shopify Developer..!
-  <br>
-  🎓 I graduated from UOH
-  <br>
-  👯 I’m looking to collaborate with other Developers
-  <br>
-  💻⚡⚽🏔📚 Love Football, Competitive Programming, Mountaineering, Book Reading
-  <br>
-  📫 How to reach me: <a href="mailto:zowhair@gmail.com">zowhair@gmail.com</a>
+  <b>Forward Deployed Engineer · AI agents, integrations &amp; full-stack systems</b><br>
+  I work directly with the people who have the problem, then deploy the fix into their real systems.
 </p>
 
-<hr>
-
-
-<!-- ### Connect with me: -->
-
-<!-- [<a href="analogbeings.com"><img align="left" alt="analogbeings.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>][website] -->
-<!-- [<a href="https://www.youtube.com/zowhair"><img align="left" alt="zowhair | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>][youtube] -->
-<!-- [<a href="https://www.twitter.com/zowhair"><img align="left" alt="zowhair | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>][twitter] -->
-<!-- [<a href="https://linkedin.com/in/zowhair"><img align="left" alt="zowhair | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>][linkedin] -->
-<!-- [<a href="https://leetcode.com/zowhair"><img align="left" alt="zowhair | Leetcode" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" /></a>][website] -->
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<!-- [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][website] -->
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" >
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
-
-
-
-<!-- ---
-### Projects
-- [A MVC web-framework in Python](https://github.com/analogbeings/ridaakh)
-- [AnalogBeings](https://analogbeings.com)
-- [CodeSilos](https://codesilos.com/)
-- [Anwer Ali](http://anwer-ali.com/)
-- [Bookgb](https://bookgb.com/)
-- [gsasbiz](https://gsasbiz.com/shop/)
-- [themtgb](https://themtgb.com/)
-- [expeditionasia](http://expeditionasia.com.pk/)
----
- -->
----
-
-<!-- ### 📺 Latest YouTube Videos -->
-<!-- YOUTUBE:START -->
-<!--
-- [Simple React.js User Login Authentication | Auth0](https://www.youtube.com/watch?v=MqczHS3Z2bc)
-- [Top 10 VS Code Updates You Don't Know About!! (July 2020)](https://www.youtube.com/watch?v=WHBQ1szkhtI)
-- [localStorage Dark/Light Mode Theme Toggle (CSS/JavaScript) | UI Design](https://www.youtube.com/watch?v=_raOFZAYXD4) -->
-<!-- YOUTUBE:END -->
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=zowhair&theme=react&border=61dafb&hide_border=true" alt="zowhair" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=zowhair&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zowhair&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
-<!--   <img src="https://activity-graph.herokuapp.com/graph?username=zowhair&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
+<p align="center">
+  <a href="https://linkedin.com/in/zowhair"><img src="https://img.shields.io/badge/LinkedIn-zowhair-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/zowhair"><img src="https://img.shields.io/badge/X-@zowhair-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://akteora.com"><img src="https://img.shields.io/badge/Building-Akteora-E9A825?style=flat-square" alt="Akteora"></a>
+  <a href="https://stackoverflow.com/users/9833623/zowhair"><img src="https://img.shields.io/badge/Stack_Overflow-zowhair-F58025?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow"></a>
+  <a href="mailto:zowhair@gmail.com"><img src="https://img.shields.io/badge/Email-zowhair@gmail.com-2F5BFF?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<hr>
+<!-- Add your portfolio link once it's live:
+<p align="center"><a href="https://YOUR-DOMAIN">Portfolio →</a></p> -->
+
+---
+
+### About me
+
+- 🧭 **Forward Deployed Engineer** with 6+ years shipping production software for clients: Shopify merchants, agencies, SaaS teams and health-tech.
+- 🤖 Now focused on deploying **AI agents, RAG and MCP integrations** inside real businesses, with evals to prove they work.
+- 🏗️ Founding engineer of **[Akteora](https://akteora.com)**, a multi-tenant testimonial platform I built end to end.
+- 📍 Islamabad, Pakistan · working remotely · UTC+5
+- ⚽ 🏔 📚 Outside work: football, mountaineering, books.
+
+### How I work
+
+```
+discover  →  scope  →  integrate  →  prove
+```
+
+**Discover:** sit with the people doing the work and find the one number that shows it got better.
+**Scope:** a one-page plan with a success metric, what's in and what's out.
+**Integrate:** build inside their stack, with their data, auth and cloud.
+**Prove:** evals for anything AI, a before-and-after metric, and a runbook the team can own.
+
+### Selected work
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[Akteora](https://akteora.com)** | Collects video, audio and text testimonials through one link and turns them into captioned, branded content. Direct-to-R2 uploads, async FFmpeg pipeline, Whisper transcription with word-level timing. | NestJS · Next.js · PostgreSQL · Redis · R2 · FFmpeg |
+| **Medical Records Platform** | Voice-first patient records with role-based access, an append-only audit trail and rotating refresh tokens. | NestJS · React · Redis · R2 / MinIO |
+| **Progress Bar & Gift App** | Shopify app that raises order value with cart milestones and free-gift thresholds, configured by merchants without a developer. | Remix · GraphQL · Shopify · Polaris |
+
+### In the lab
+
+Reference builds for AI deployments in commerce. Each ships with evals, a runbook and a case study.
+
+| Status | Build |
+|---|---|
+| 🟢 Building | **Shopify MCP server:** lets a store owner ask Claude about orders, stock and customers in plain English |
+| ⚪ Next | **Support copilot with evals:** answers from store policies and order data, cites sources, hands off when unsure |
+| ⚪ Planned | **Deploy into the customer's cloud:** the copilot shipped into a fresh AWS account with Terraform and Bedrock |
+
+### Experience
+
+- **Founding Engineer** @ Akteora · 2026–now
+- **Web Operations Lead** @ ZulayKitchen · 2025–2026: automated marketing workflows with LLM agents, 3× release cadence
+- **Shopify Developer** @ EcomExperts.io · 2024–2025: checkout upsells that lifted average order value by 15%
+- **Full-Stack Developer** @ NorthJs Tech · 2022–2024: custom apps and migrations, 25% fewer deployment bugs
+- **Full-Stack Developer** @ Lamstan · 2021–2022: scaled an MVP across 500+ locations
+
+### Stack
+
+**AI & agents**<br>
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-111111?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-111111?style=flat-square)
+![Whisper](https://img.shields.io/badge/Whisper-111111?style=flat-square)
+
+**Backend & integrations**<br>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+
+**Frontend**<br>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Remix](https://img.shields.io/badge/Remix-000000?style=flat-square&logo=remix&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Data & infrastructure**<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### GitHub stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zowhair&show_icons=true&hide_border=true&theme=default" alt="GitHub stats">
+  <img height="160" src="https://streak-stats.demolab.com/?user=zowhair&hide_border=true" alt="GitHub streak">
+</p>
+
+---
+
+<p align="center">
+  Hiring a forward deployed engineer, or need AI working inside your business?<br>
+  <a href="mailto:zowhair@gmail.com"><b>zowhair@gmail.com</b></a>
+</p>
