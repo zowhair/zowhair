@@ -110,6 +110,6 @@ Reference builds for AI deployments in commerce. Each ships with evals, a runboo
 ---
 
 <p align="center">
-  Hiring a forward deployed engineer, or need AI working inside your business?<br>
+  Hiring a software engineer, or need AI working inside your business?<br>
   <a href="mailto:zowhair@gmail.com"><b>zowhair@gmail.com</b></a>
 </p>
