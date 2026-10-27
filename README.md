@@ -1,11 +1,11 @@
 <h1 align="center">
   <a href="https://github.com/zowhair">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Zuhair+👋;Forward+Deployed+Engineer;I+ship+AI+into+real+businesses&center=true&width=620&height=50&size=28&duration=3200&pause=900" alt="Hi, I'm Zuhair — Forward Deployed Engineer">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Zuhair+👋;Forward+Deployed+Engineer;I+ship+AI+into+real+businesses&center=true&width=620&height=50&size=28&duration=3200&pause=900" alt="Hi, I'm Zuhair, Software Engineer">
   </a>
 </h1>
 
 <p align="center">
-  <b>Forward Deployed Engineer · AI agents, integrations &amp; full-stack systems</b><br>
+  <b>Software Engineer · AI agents, integrations &amp; full-stack systems</b><br>
   I work directly with the people who have the problem, then deploy the fix into their real systems.
 </p>
 
