@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/zowhair">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Zuhair+👋;Forward+Deployed+Engineer;I+ship+AI+into+real+businesses&center=true&width=620&height=50&size=28&duration=3200&pause=900" alt="Hi, I'm Zuhair, Software Engineer">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Zuhair+👋;Forward+Deployed+Engineer;I+ship+AI+into+real+businesses&center=true&width=620&height=50&size=28&duration=3200&pause=900" alt="Hi, I'm zowhair, Software Engineer">
   </a>
 </h1>
 
