@@ -27,7 +27,6 @@
 - 🧭 **Forward Deployed Engineer** with 6+ years shipping production software for clients: Shopify merchants, agencies, SaaS teams and health-tech.
 - 🤖 Now focused on deploying **AI agents, RAG and MCP integrations** inside real businesses, with evals to prove they work.
 - 🏗️ Founding engineer of **[Akteora](https://akteora.com)**, a multi-tenant testimonial platform I built end to end.
-- 📍 Islamabad, Pakistan · working remotely · UTC+5
 - ⚽ 🏔 📚 Outside work: football, mountaineering, books.
 
 ### How I work
