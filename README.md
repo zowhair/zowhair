@@ -1,11 +1,11 @@
 <h1 align="center">
   <a href="https://github.com/zowhair">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Zuhair+👋;Forward+Deployed+Engineer;I+ship+AI+into+real+businesses&center=true&width=620&height=50&size=28&duration=3200&pause=900" alt="Hi, I'm zowhair, Software Engineer">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Zuhair+👋;Forward+Deployed+Engineer;I+ship+AI+into+real+businesses&center=true&width=620&height=50&size=28&duration=3200&pause=900" alt="Hi, I'm Zuhair, Forward Deployed Engineer">
   </a>
 </h1>
 
 <p align="center">
-  <b>Software Engineer · AI agents, integrations &amp; full-stack systems</b><br>
+  <b>Forward Deployed Engineer · AI agents, integrations &amp; full-stack systems</b><br>
   I work directly with the people who have the problem, then deploy the fix into their real systems.
 </p>
 
@@ -24,7 +24,7 @@
 
 ### About me
 
-- 🧭 **Forward Deployed Engineer** with 6+ years shipping production software for clients: Shopify merchants, agencies, SaaS teams and health-tech.
+- 🧭 **Forward Deployed Engineer** with 5+ years shipping production software for clients: Shopify merchants, agencies, SaaS teams and health-tech.
 - 🤖 Now focused on deploying **AI agents, RAG and MCP integrations** inside real businesses, with evals to prove they work.
 - 🏗️ Founding engineer of **[Akteora](https://akteora.com)**, a multi-tenant testimonial platform I built end to end.
 - ⚽ 🏔 📚 Outside work: football, mountaineering, books.
@@ -35,17 +35,17 @@
 discover  →  scope  →  integrate  →  prove
 ```
 
-**Discover:** sit with the people doing the work and find the one number that shows it got better.
-**Scope:** a one-page plan with a success metric, what's in and what's out.
-**Integrate:** build inside their stack, with their data, auth and cloud.
-**Prove:** evals for anything AI, a before-and-after metric, and a runbook the team can own.
+- **Discover:** sit with the people doing the work and find the one number that shows it got better.
+- **Scope:** a one-page plan with a success metric, what's in and what's out.
+- **Integrate:** build inside their stack, with their data, auth and cloud.
+- **Prove:** evals for anything AI, a before-and-after metric, and a runbook the team can own.
 
 ### Selected work
 
 | Project | What it is | Stack |
 |---|---|---|
 | **[Akteora](https://akteora.com)** | Collects video, audio and text testimonials through one link and turns them into captioned, branded content. Direct-to-R2 uploads, async FFmpeg pipeline, Whisper transcription with word-level timing. | NestJS · Next.js · PostgreSQL · Redis · R2 · FFmpeg |
-| **Medical Records Platform** | Voice-first patient records with role-based access, an append-only audit trail and rotating refresh tokens. | NestJS · React · Redis · R2 / MinIO |
+| **Medical Records Platform** | Patient-owned health records shared with doctors through consent-based care links. Access guard on every patient endpoint, audit log on every write, soft-delete-only clinical data, rotating refresh tokens, presigned direct-to-storage uploads. Dockerised and shipped to a VPS behind Caddy via GHCR. | NestJS · Prisma · PostgreSQL · Redis · Next.js · S3 / MinIO |
 | **Progress Bar & Gift App** | Shopify app that raises order value with cart milestones and free-gift thresholds, configured by merchants without a developer. | Remix · GraphQL · Shopify · Polaris |
 
 ### In the lab
@@ -79,6 +79,7 @@ Reference builds for AI deployments in commerce. Each ships with evals, a runboo
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
@@ -95,6 +96,7 @@ Reference builds for AI deployments in commerce. Each ships with evals, a runboo
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -109,6 +111,6 @@ Reference builds for AI deployments in commerce. Each ships with evals, a runboo
 ---
 
 <p align="center">
-  Hiring a software engineer, or need AI working inside your business?<br>
+  Hiring a forward deployed engineer, or need AI working inside your business?<br>
   <a href="mailto:zowhair@gmail.com"><b>zowhair@gmail.com</b></a>
 </p>
