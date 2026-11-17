@@ -24,7 +24,7 @@
 
 ### About me
 
-- 🧭 **Forward Deployed Engineer** with 5+ years shipping production software for clients: Shopify merchants, agencies, SaaS teams and health-tech.
+- 🧭 **Software Engineer** with 5+ years shipping production software for clients: Shopify merchants, agencies, SaaS teams and health-tech.
 - 🤖 Now focused on deploying **AI agents, RAG and MCP integrations** inside real businesses, with evals to prove they work.
 - 🏗️ Founding engineer of **[Akteora](https://akteora.com)**, a multi-tenant testimonial platform I built end to end.
 - ⚽ 🏔 📚 Outside work: football, mountaineering, books.
